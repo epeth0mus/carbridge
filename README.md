@@ -6,6 +6,10 @@ Website: [CarBridgeInstall](https://carbridgeinstall.com/)
 Repo: [Havoc App Package](https://havoc.app/package/carbridge)
 Cost: $9.99
 
+## iOS 17 Support
+
+CarBridge does not support iOS 17 versions yet. This public repository is made to enable iOS 16 - iOS 17 Support for Carbridge.
+
 ## Features
 
 - **Universal App Support:** Open virtually any app on your CarPlay interface, with the exception of DRM-enabled video streaming applications.
