@@ -53,3 +53,7 @@ For installation requirements, please visit our Discord.
 - **Size:** 423.98 KB
 - **iOS Compatibility:** 13.0 - 16.7.7
 - **Supports Rootless:** Yes
+
+## Other Tweaks
+- [Watch Netflix on Apple Carplay](https://github.com/epeth0mus/carplay-netflix)
+- [Carplay Netflix Adapter] (https://shop.carplayhacks.com/products/carplay-netflix-youtube-adapter)
