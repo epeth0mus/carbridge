@@ -56,4 +56,4 @@ For installation requirements, please visit our Discord.
 
 ## Other Tweaks
 - [Watch Netflix on Apple Carplay](https://github.com/epeth0mus/carplay-netflix)
-- [Carplay Netflix Adapter] (https://shop.carplayhacks.com/products/carplay-netflix-youtube-adapter)
+- [Carplay Netflix Adapter](https://shop.carplayhacks.com/products/carplay-netflix-youtube-adapter)
